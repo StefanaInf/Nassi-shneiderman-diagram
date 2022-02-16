@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1642156994 source:f:\hellonearth\new\pro\nassi_shn\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdio.h>
+	<math.h>
+	<fstream>
+	<vector>
+	<string.h>
+	<string>
+	<list>
+

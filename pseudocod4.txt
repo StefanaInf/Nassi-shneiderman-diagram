@@ -1,0 +1,62 @@
+citeste n
+citeste m
+cat timp n != m repeta
+{
+   daca n > m atunci
+   {
+        daca m > n atunci
+        {
+            m
+        }
+        altfel
+        {
+            m
+        }
+        end if
+   }
+   altfel
+   {
+        m <- m - n
+   }
+   end if
+}
+end while
+m <- m + 1
+daca n atunci
+{
+    daca m atunci
+    {
+        m
+    }
+    altfel
+    {
+        n
+    }
+    end if
+}
+altfel
+{
+    daca n atunci
+    {
+        m
+    }
+    altfel
+    {
+        n
+        m
+    }
+}
+end if
+citeste n
+repeta
+{
+    x = 0
+    cat timp m repeta
+    {
+    	x++
+    }
+    end while 
+}
+pana cand y
+citeste m
+end code
